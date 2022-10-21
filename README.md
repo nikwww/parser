@@ -1,0 +1,27 @@
+php console.php https://www.php.net/ <br>
+&lt;a&gt; 252 <br>
+&lt;article&gt; 25 <br>
+&lt;aside&gt; 1 <br>
+&lt;b&gt; 3 <br>
+&lt;body&gt; 1 <br>
+&lt;br&gt; 2 <br>
+&lt;dd&gt; 82 <br>
+&lt;div&gt; 75 <br>
+&lt;dl&gt; 4 <br>
+&lt;dt&gt; 16 <br>
+&lt;footer&gt; 1 <br>
+&lt;form&gt; 1 <br>
+&lt;h&gt; 25 <br>
+&lt;header&gt; 25 <br>
+&lt;i&gt; 1 <br>
+&lt;img&gt; 4 <br>
+&lt;input&gt; 3 <br>
+&lt;li&gt; 20 <br>
+&lt;nav&gt; 2 <br>
+&lt;p&gt; 131 <br>
+&lt;script&gt; 7 <br>
+&lt;section&gt; 1 <br>
+&lt;span&gt; 2 <br>
+&lt;strong&gt; 9 <br>
+&lt;time&gt; 25 <br>
+&lt;ul&gt; 7 <br>
